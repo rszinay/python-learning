@@ -1,9 +1,11 @@
-# Python – učební projekty
+English | [Čeština](README.cs.md)
 
-Moje cvičné projekty z učení Pythonu. Každý projekt má vlastní složku a vlastní README s popisem a návodem na spuštění.
+# Python – learning projects
 
-## Projekty
+My practice projects from learning Python. Each project has its own folder with its own README containing a description and run instructions.
 
-| Projekt | O čem to je |
-|---------|-------------|
-| [snake-game](snake-game/) | Hadí hra v knihovně `turtle`, napsaná objektově (třídy `Snake`, `Food`, `Scoreboard`, `Message`). |
+## Projects
+
+| Project | What it is |
+|---------|------------|
+| [snake-game](snake-game/) | Snake game in the `turtle` library, written in an object-oriented way (classes `Snake`, `Food`, `Scoreboard`, `Message`). |
